@@ -6,4 +6,4 @@ You can simply set up a dataset with dates and values for each day and it is gon
 
 ## preview
 
-http://wolvery.github.com/d3Test
+http://wolvery.github.io/d3Test
